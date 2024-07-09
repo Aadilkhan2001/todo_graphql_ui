@@ -43,3 +43,6 @@ Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 ```bash
 npm run build
 ```
+
+### Video Demo
+[graphql_demo.webm](https://github.com/Aadilkhan2001/todo_graphql_ui/assets/96743808/c5b71461-c37d-4f9f-b528-461c4c9342eb)
